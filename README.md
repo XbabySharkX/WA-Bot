@@ -1,6 +1,6 @@
 # WA-Bot
 
-npm install
+<pre> npm install </pre>
 
 node index.js
 
